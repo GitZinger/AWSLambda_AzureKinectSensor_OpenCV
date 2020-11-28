@@ -1,0 +1,7 @@
+D:\Yulone\202001\AccessAzure103\x64\Release\AccessAzure103.exe
+D:\Yulone\202001\AccessAzure103\x64\Release\AccessAzure103.vcxproj.CopyComplete
+D:\Yulone\202001\AccessAzure103\x64\Release\depthengine_2_0.dll
+D:\Yulone\202001\AccessAzure103\x64\Release\k4a.dll
+D:\Yulone\202001\AccessAzure103\x64\Release\k4arecord.dll
+D:\Yulone\202001\AccessAzure103\x64\Release\k4a.pdb
+D:\Yulone\202001\AccessAzure103\x64\Release\k4arecord.pdb
