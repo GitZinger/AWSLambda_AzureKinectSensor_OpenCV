@@ -1,0 +1,149 @@
+running
+Added object '1c.png' to bucket '8795'.
+Added object '1d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: ff11ea1a-d2e3-4395-bc7a-8f0abb4ca639 Version: $LATEST
+END RequestId: ff11ea1a-d2e3-4395-bc7a-8f0abb4ca639
+REPORT RequestId: ff11ea1a-d2e3-4395-bc7a-8f0abb4ca639  Duration: 841.68 ms     Billed Duration: 842 ms Memory Size: 512 MB     Max Memory Used: 162 MB
+
+
+Added object '2c.png' to bucket '8795'.
+Added object '2d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: ac7dbd0c-e3c5-4623-8ffa-77059ba1ff23 Version: $LATEST
+END RequestId: ac7dbd0c-e3c5-4623-8ffa-77059ba1ff23
+REPORT RequestId: ac7dbd0c-e3c5-4623-8ffa-77059ba1ff23  Duration: 482.49 ms     Billed Duration: 483 ms Memory Size: 512 MB     Max Memory Used: 162 MB
+
+
+Added object '3c.png' to bucket '8795'.
+Added object '3d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: f461a3dc-334b-49d5-994d-13a90073ca1e Version: $LATEST
+END RequestId: f461a3dc-334b-49d5-994d-13a90073ca1e
+REPORT RequestId: f461a3dc-334b-49d5-994d-13a90073ca1e  Duration: 421.06 ms     Billed Duration: 422 ms Memory Size: 512 MB     Max Memory Used: 162 MB
+
+
+Added object '4c.png' to bucket '8795'.
+Added object '4d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 77aea8e0-84e2-46a3-b45d-74c8752d692f Version: $LATEST
+END RequestId: 77aea8e0-84e2-46a3-b45d-74c8752d692f
+REPORT RequestId: 77aea8e0-84e2-46a3-b45d-74c8752d692f  Duration: 401.46 ms     Billed Duration: 402 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '5c.png' to bucket '8795'.
+Added object '5d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 6b95b6c8-883c-40c9-b4cc-bfde81fe82c7 Version: $LATEST
+END RequestId: 6b95b6c8-883c-40c9-b4cc-bfde81fe82c7
+REPORT RequestId: 6b95b6c8-883c-40c9-b4cc-bfde81fe82c7  Duration: 477.18 ms     Billed Duration: 478 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '6c.png' to bucket '8795'.
+Added object '6d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 97cfd2c8-fd35-4ebe-a044-6e13d0312776 Version: $LATEST
+END RequestId: 97cfd2c8-fd35-4ebe-a044-6e13d0312776
+REPORT RequestId: 97cfd2c8-fd35-4ebe-a044-6e13d0312776  Duration: 410.76 ms     Billed Duration: 411 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '7c.png' to bucket '8795'.
+Added object '7d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 7dbdc2bb-f9b5-4725-825e-439912292d55 Version: $LATEST
+END RequestId: 7dbdc2bb-f9b5-4725-825e-439912292d55
+REPORT RequestId: 7dbdc2bb-f9b5-4725-825e-439912292d55  Duration: 419.31 ms     Billed Duration: 420 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '8c.png' to bucket '8795'.
+Added object '8d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 948cfe19-972f-4935-9fb8-d2358c794055 Version: $LATEST
+END RequestId: 948cfe19-972f-4935-9fb8-d2358c794055
+REPORT RequestId: 948cfe19-972f-4935-9fb8-d2358c794055  Duration: 457.95 ms     Billed Duration: 458 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '9c.png' to bucket '8795'.
+Added object '9d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: cd6bf34e-cd01-46da-b624-0f22aec66dfd Version: $LATEST
+END RequestId: cd6bf34e-cd01-46da-b624-0f22aec66dfd
+REPORT RequestId: cd6bf34e-cd01-46da-b624-0f22aec66dfd  Duration: 414.24 ms     Billed Duration: 415 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '10c.png' to bucket '8795'.
+Added object '10d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 4f19b751-bd05-4c4d-9f17-f98665bb684a Version: $LATEST
+END RequestId: 4f19b751-bd05-4c4d-9f17-f98665bb684a
+REPORT RequestId: 4f19b751-bd05-4c4d-9f17-f98665bb684a  Duration: 500.91 ms     Billed Duration: 501 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '11c.png' to bucket '8795'.
+Added object '11d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 1c27f33c-083a-4250-b78f-519f430e27fe Version: $LATEST
+END RequestId: 1c27f33c-083a-4250-b78f-519f430e27fe
+REPORT RequestId: 1c27f33c-083a-4250-b78f-519f430e27fe  Duration: 416.50 ms     Billed Duration: 417 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '12c.png' to bucket '8795'.
+Added object '12d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 8de2a85e-c2be-4c16-a0ee-48edacd60258 Version: $LATEST
+END RequestId: 8de2a85e-c2be-4c16-a0ee-48edacd60258
+REPORT RequestId: 8de2a85e-c2be-4c16-a0ee-48edacd60258  Duration: 395.83 ms     Billed Duration: 396 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '13c.png' to bucket '8795'.
+Added object '13d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 568388ea-91dd-4747-aad2-6db973f6a075 Version: $LATEST
+END RequestId: 568388ea-91dd-4747-aad2-6db973f6a075
+REPORT RequestId: 568388ea-91dd-4747-aad2-6db973f6a075  Duration: 402.01 ms     Billed Duration: 403 ms Memory Size: 512 MB     Max Memory Used: 163 MB
+
+
+Added object '14c.png' to bucket '8795'.
+Added object '14d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: b3c922dd-c759-4d9d-a5b2-a01f52873807 Version: $LATEST
+END RequestId: b3c922dd-c759-4d9d-a5b2-a01f52873807
+REPORT RequestId: b3c922dd-c759-4d9d-a5b2-a01f52873807  Duration: 433.38 ms     Billed Duration: 434 ms Memory Size: 512 MB     Max Memory Used: 164 MB
+
+
+Added object '15c.png' to bucket '8795'.
+Added object '15d.png' to bucket '8795'.Lambda result:
+{"statusCode": 200, "body": "\"Done from Lambda! \""}
+
+Log result header:
+START RequestId: 9e61d617-b9bb-4f69-b944-1fee5ac7dec6 Version: $LATEST
+END RequestId: 9e61d617-b9bb-4f69-b944-1fee5ac7dec6
+REPORT RequestId: 9e61d617-b9bb-4f69-b944-1fee5ac7dec6  Duration: 415.57 ms     Billed Duration: 416 ms Memory Size: 512 MB     Max Memory Used: 164 MB

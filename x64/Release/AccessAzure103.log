@@ -134,6 +134,6 @@ C:\Users\Student\Downloads\opencv\build\include\opencv2\video\background_segm.hp
   The contents of <filesystem> are available only with C++17 or later.
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 222 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 209 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   AccessAzure103.vcxproj -> D:\Yulone\202001\AccessAzure103\x64\Release\AccessAzure103.exe

@@ -1,0 +1,19 @@
+========== Menu ==========
+1 to run with azure kinect sdk, opencv sdk and aws sdk
+2. hard code run the 15 pairs and image processing with opencv on local machine
+2
+ elapsed time: 0.32393s
+ elapsed time: 0.310901s
+ elapsed time: 0.322842s
+ elapsed time: 0.330336s
+ elapsed time: 0.31286s
+ elapsed time: 0.312333s
+ elapsed time: 0.292415s
+ elapsed time: 0.307627s
+ elapsed time: 0.30614s
+ elapsed time: 0.307365s
+ elapsed time: 0.330291s
+ elapsed time: 0.325778s
+ elapsed time: 0.317369s
+ elapsed time: 0.288552s
+ elapsed time: 0.294051s
