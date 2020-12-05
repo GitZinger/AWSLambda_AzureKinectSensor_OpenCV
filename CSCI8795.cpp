@@ -125,6 +125,13 @@ auto& GetObject(const Aws::String& objectKey,
        // std::cout << file_data << std::endl;
 
        // return retrieved_file;
+
+        //this way 
+        std::stringstream ss;
+        ss << retrieved_file.rdbuf();
+        const char* text = ss.str().c_str();
+
+        //
     }
     else
     {
